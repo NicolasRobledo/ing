@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "6b3a98b1bd314b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32da6b2d8486435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b156697e5e89ab01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/Puntos Importantes - Trabajo Practico de 2 al 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Puntos Importantes - Trabajo Practico de 2 al 5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f3fc868823e256c",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a103d850981a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e34979e359eacd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2955b50826a825a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "220bfe90aebdf7ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "f6d8cbe64b4054b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "676a999826f4cc00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c0fcd10f07af5ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Primer Parcial/Puntos Importantes - Trabajo Practico de 2 al 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Puntos Importantes - Trabajo Practico de 2 al 5"
+            }
+          },
+          {
+            "id": "09c5e1e2a711b038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "7abf827b4aee7bee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ddabd75aab4da71f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4e34979e359eacd5",
+  "lastOpenFiles": [
+    "Recuperatorio del primer parcial/Trabajo Practico N6- Control.md",
+    "Primer Parcial/Puntos Importantes - Trabajo Practico de 2 al 5.md",
+    "graficos/Pasted image 20250606100924.png",
+    "graficos/Pasted image 20250606095241.png",
+    "graficos/Pasted image 20250606095218.png",
+    "graficos/Pasted image 20250606080336.png",
+    "Recuperatorio del primer parcial",
+    "Primer Parcial/Sin nombre",
+    "graficos",
+    "graficos/Pasted image 20250523022824.png",
+    "graficos/Pasted image 20250523022021.png",
+    "graficos/Pasted image 20250523021415.png",
+    "graficos/Pasted image 20250523021308.png",
+    "graficos/Pasted image 20250523020736.png",
+    "graficos/Pasted image 20250523014601.png",
+    "Primer Parcial",
+    "Bienvenido.md"
+  ]
+}
